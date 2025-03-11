@@ -23,17 +23,17 @@
 ## Project Structure
    Phone-Number-Validator/ 
    
-   |--index.html 
-   
-   |--LICENSE 
+    |--index.html 
+    
+    |--LICENSE 
 
-   |--Logo.jpeg 
-   
-   |--README.md 
-   
-   |--script.js 
-   
-   |--styles.css
+    |--Logo.jpeg 
+    
+    |--README.md 
+    
+    |--script.js 
+    
+    |--styles.css
 
 ## Installation and Setup
 
@@ -49,9 +49,7 @@
 
 ## Deployment
 
-  The project is deployed on vercel, a platform known for its fast and easy deployment of web applications
-
-  Live Demo: 
+  Live Demo: [Phone-Number-Validator](https://hilaryokonkwo.github.io/Phone-Number-Validator/)
 
 ## License
 
@@ -75,10 +73,10 @@
 
 ## Contact
 
-  Feel free to connect via:
+   Feel free to connect via:
 
-  Email:somtoochukwuhilary@gmail.com
+   Email:somtoochukwuhilary@gmail.com
 
-  Github: https://github.com/HilaryOkonkwo
+   Github: https://github.com/HilaryOkonkwo
 
-  Mobile No: +2348164514675
+   Mobile No: +2348164514675
